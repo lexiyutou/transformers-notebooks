@@ -1,6 +1,11 @@
 # Example notebooks for vision model of 🤗 Transformers
 
- - DAB-DETR for object detection
- - DepthPro for depth estimation
- - PromptDepth for depth estimation
- - SuperGlue for keypoint matching
+| Model       | Task                | Notebooks | Open in Colab |
+|------------|--------------------|-----------|---------------|
+| RT-DETRv2  | Object Detection   | [Inference](https://github.com/qubvel/transformers-notebooks/blob/main/notebooks/RT_DETR_v2_inference.ipynb) <br> [Fine-tuning](https://github.com/qubvel/transformers-notebooks/blob/main/notebooks/RT_DETR_v2_finetune_on_a_custom_dataset.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qubvel/transformers-notebooks/blob/main/notebooks/RT_DETR_v2_inference.ipynb) <br> [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qubvel/transformers-notebooks/blob/main/notebooks/RT_DETR_v2_finetune_on_a_custom_dataset.ipynb) |
+| DAB-DETR   | Object Detection   | [Inference](https://github.com/qubvel/transformers-notebooks/blob/main/notebooks/DAB_DETR_inference.ipynb) <br> [Fine-tuning](https://github.com/qubvel/transformers-notebooks/blob/main/notebooks/DAB_DETR_finetune_on_a_custom_dataset.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qubvel/transformers-notebooks/blob/main/notebooks/DAB_DETR_inference.ipynb) <br> [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qubvel/transformers-notebooks/blob/main/notebooks/DAB_DETR_finetune_on_a_custom_dataset.ipynb) |
+| DepthPro   | Depth Estimation   | [Inference](https://github.com/qubvel/transformers-notebooks/blob/main/notebooks/DepthPro_inference.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qubvel/transformers-notebooks/blob/main/notebooks/DepthPro_inference.ipynb) |
+| PromptDepth | Depth Estimation  | [Inference](https://github.com/qubvel/transformers-notebooks/blob/main/notebooks/PromptDepthAnything_inference.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qubvel/transformers-notebooks/blob/main/notebooks/PromptDepthAnything_inference.ipynb) |
+| SuperGlue  | Keypoint Matching  | [Inference](https://github.com/qubvel/transformers-notebooks/blob/main/notebooks/SuperGlue_inference.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/qubvel/transformers-notebooks/blob/main/notebooks/SuperGlue_inference.ipynb) |
+
+
